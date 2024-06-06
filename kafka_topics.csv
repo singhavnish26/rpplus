@@ -1,0 +1,11 @@
+topicName	identifiers
+ext_metering-point-parameter	meteringPoint,parameter
+ext_group	groupid
+ext_device-derived-measurement	
+ext_device-process	
+ext_device-telemetry	device
+ext_device-event	device,event
+ext_device-measurement	
+ext_metering-point	device,meteringPoint
+ext_device-parameter	device,parameter
+ext_device	device
