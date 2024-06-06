@@ -1,0 +1,1716 @@
+zonosEventCode	customerEventDescription	Level	eventCategory
+937013	Unable to remove temporary file	2	
+937012	Unabletoregisterexportfilein database	2	
+937011	Unable to move export file	2	
+937010	Unable to write CSV data to file	2	
+937009	Nothing to export	2	
+937008	Unable to finalize export file	2	
+937007	Unable to create export file	2	
+937006	Unable to get portal information	2	
+937005	Mandant DB change failed	2	
+937004	Export target path is not writable	2	
+937003	JSON invalid	2	
+937002	Temporary file not readable	2	
+937001	Missing cron job parameter	2	
+936503	Alarm testing: reopen and solve	2	
+936502	Alarm testing: reopen and solve	2	
+936501	Alarm testing: reopen and solve	2	
+936013	SQL error on deleting entry	2	
+936012	SQL error on insert new entry	2	
+936011	SQL error on fetching filenames	2	
+936005	File not found	2	
+936003	Path not writable	2	
+936002	Configuration parameter not set	2	
+936001	Missing cron job parameter	2	
+935003	UnabletodeterminemonitorIDfor register!	2	
+935002	UnabletodetermineconsumableID for device!	2	
+935001	UnabletodetermineconsumableID for device!	2	
+934003	Unable to create cron job	2	
+934002	Unable to create cron job	2	
+934001	Unable to create cron job	2	
+933001	Invalid path for polling!	2	
+932005	Device not found!	2	
+932004	Job type for function not found!	2	
+932003	Unable to create cron job	2	
+932002	Unable to retrieve details for device!	2	
+932001	No job type found	2	
+931005	Moved alarms could not be removed	2	
+931004	An error in the AlarmInformationBase occurred	2	
+931003	Parameterthis- >calc_alarm_timestamp is invalid	2	
+931002	Invalid input	2	
+931001	Objects are not allowed	2	
+930002	Key must not be empty!	2	
+930001	Key is already set!	2	
+929103	Unknown OBIS ID!	2	
+929102	Unable to retrieve OBIS media ID for OBIS ID %1$s!	2	
+928152	Empty web service message of SAP re- ceived.	2	
+927425	The OBIS code cannot be bound to this meter!	2	
+926802	SAP replication BULK request invalid	2	
+926207	Processforbindingthemetertothe CM could not be creation!	2	
+926204	ProcessforthecreationoftheCM could not be created!	2	
+926203	Processforthe creation ofthe device could not be created!	2	
+926202	Internal database error	2	
+926201	Internal database error	2	
+926110	CM for SAP material ID is not regis-tered in ZONOS	2	
+926108	SAP MeterReadingDocumentERP-BulkCreateRequest invalid	2	
+926103	Error creating	2	
+926102	SAP BULK request invalid	2	
+926101	SAP material ID | %1$s | is not regis-tered in ZONOS	2	
+926001	Unknown XML format	2	
+925152	Unable to send confirmation file via e-mail	2	
+925001	During the import warning(s) occurred	2	
+924240	OBIS identification number for the de-vice is not defined! Record was filed in the cache!	2	
+924230	OBIS identification number is not de-fined! Record was filed in the cache!	2	
+924220	Section unknown for the meter to com-munication module %1$s is bound! Record was filed in the cache!	2	
+924210	Communication module is not regis-tered. Record was rejected!	2	
+924201	Failed to insert record	2	
+924200	No meter assigned	2	
+924100	Measured value could not be processed	2	
+923004	Unable to send e-mail	2	
+923003	No configuration found	2	
+923002	Unable to access temp file	2	
+923001	Missing cron job parameter	2	
+922103	Uploaded file size is too large!	2	
+922102	Uploaded file is empty!	2	
+922101	No uploaded file found!	2	
+922004	Unable to create file	2	
+922003	Unable to create cron job	2	
+922002	Unable to open file!	2	
+922001	File not found!	2	
+921100	Errorwhencreating/updatingthe monitoring Files	2	
+920003	No data available. No operational pro- cess was created.	2	
+920002	Exportwillbepreparedandsentout via e-mail	2	
+919204	Failed to write data row to file!	2	
+919203	Failed to write header to file!	2	
+919202	Internal database error	2	
+919201	Unable to open file	2	
+919105	Internal database error	2	
+919104	Internal database error	2	
+919103	Internal database error	2	
+919102	Internal database error	2	
+919101	Internal database error	2	
+919003	Unabletoretrievedata:invalidstop timestamp!	2	
+919002	Unabletoretrievedata:nodevices specified!	2	
+919001	Type error	2	
+918204	Internal database error	2	
+918203	Unexpected job class	2	
+918202	No children of batch job found!	2	
+918201	Internal database error	2	
+918104	Cron job not found!	2	
+918103	Internal database error	2	
+918102	Batch job not found!	2	
+918101	Internal database error	2	
+918003	No file name for report configured!	2	
+918002	No path for storing the report config- ured!	2	
+918001	Cron job parameter not set!	2	
+917002	Internal database error	2	
+917001	Internal database error	2	
+916101	Internal database error	2	
+916003	Internal database error	2	
+916002	Internal database error	2	
+916001	Internal database error	2	
+915001	Server error - sending the e-mail failed	2	
+914012	OBIS ID not found!	2	
+914011	The OBIS code cannot be bound to this meter! (All consumables must have the same media!)	2	
+914010	Invalid arguments for consumption init and/or consumption factor	2	
+914009	Invalid register definition for OBIS code	2	
+914008	The OBIS code (ID %1$s) is already bound to this meter!	2	
+914007	You may bind the OBIS code (ID %1$s) only once to this meter!	2	
+914006	OBIS code and ID not set!	2	
+914005	Internal database error	2	
+914004	Cron job parameter is missing!	2	
+914003	Internal database error	2	
+914002	OBIS code not found!	2	
+914001	Internal database error	2	
+913005	No topology information available for this device!	2	
+913004	Internal database error	2	
+913003	Internal database error	2	
+913002	No parent DC MUC found for device!	2	
+913001	Internal database error	2	
+912010	Internal database error	2	
+912009	The server ID is empty for device %1$s!	2	
+912008	The hexadecimal encoded string con- tained non printable characters!	2	
+912007	Internal database error	2	
+912006	Internal database error	2	
+912005	Cron job parameter is missing!	2	
+912004	Internal database error	2	
+912003	Internal database error	2	
+912002	No gateway found for serial number	2	
+912001	Internal database error	2	
+911103	Malformed CSV	2	
+911102	Malformed CSV	2	
+911101	Malformed CSV	2	
+911002	Malformed CSV	2	
+911001	Unable to open CSV file	2	
+910001	Unable to open directory!	2	
+909007	Internal database error	2	
+909006	The device is no gateway!	2	
+909005	No device found!	2	
+909004	Internal database error	2	
+909003	Unable to create DCT!	2	
+909002	Certificate file not found!	2	
+909001	Cron job parameter is missing!	2	
+908903	Stop time precedes start time!	2	
+908902	Stop time not set!	2	
+908901	Start time not set!	2	
+908600	Request timed out!	2	
+908501	PLC channel frequency is not set!	2	
+908402	Register value is not set!	2	
+908401	OBIS path is not set!	2	
+908301	OBIS path is not set!	2	
+908201	Reading reason not set!	2	
+908192	Password type not set!	2	
+908191	Internal database error	2	
+908184	Push target not set!	2	
+908183	Invalid load profile!	2	
+908182	OBIS path not set!	2	
+908181	Load profile not set!	2	
+908178	Push target not set!	2	
+908177	Delayhastobeanumericvalueand greater than 0!	2	
+908176	Interval has to be a numeric value and greater than 0!	2	
+908175	Invalid load profile!	2	
+908174	Delay not set!	2	
+908173	Interval not set	2	
+908172	OBIS code not set!	2	
+908171	Load profile not set!	2	
+908162	OBIS code not set!	2	
+908161	Budget is not set!	2	
+908156	Firmware ID is not in the list of possi- ble IDs	2	
+908155	No details for device type found!	2	
+908154	Internal database error	2	
+908153	Internal database error	2	
+908152	Firmware not set for device type	2	
+908151	Internal database error	2	
+908141	PLC channel frequency not set!	2	
+908133	Data type not set!	2	
+908132	Register value not set!	2	
+908131	OBIS path not set!	2	
+908121	OBIS path not set!	2	
+908113	Load limitation duration not set!	2	
+908112	Load limitation threshold not set!	2	
+908111	Load limitation type set!	2	
+908101	SCM mode not set!	2	
+908007	No supported devices selected!	2	
+908006	Unable to retrieve configuration on de- vice	2	
+908005	Internal database error	2	
+908004	Internal database error	2	
+908003	Internal database error	2	
+908002	Value is not in the list of possible values	2	
+908001	Internal database error	2	
+907106	TOU start time was not set!	2	
+907105	Invalid TOU ID!	2	
+907104	TOU activation time was not set!	2	
+907103	TOU ID was not set!	2	
+907102	Unable to generate a new TOU ID!	2	
+907101	Internal database error	2	
+907011	Internal database error	2	
+907010	Internal database error	2	
+907009	No customer database access found	2	
+907008	Internal database error	2	
+907007	Internal database error	2	
+907006	Internal database error	2	
+907005	Cron job parameter is missing!	2	
+907004	Malformed XML	2	
+907003	Malformed XML	2	
+907002	Malformed XML	2	
+907001	Unable to parse XML!	2	
+906009	Internal database error	2	
+906008	Unable to open directory	2	
+906007	Firmware already registered for device type	2	
+906006	Internaldatabaseerror:Unableto check for duplicate entry for firmware %1$s at %2$s!	2	
+906005	Internal database error	2	
+906004	Material not found in ZONOS!	2	
+906003	Internal database error	2	
+906002	Unable to parse material ID	2	
+906001	Cron job parameter is missing!	2	
+905005	Cron job parameter is missing!	2	
+905004	Internal database error	2	
+905003	RequiredXMLelementismissingin group	2	
+905002	Internal database error	2	
+905001	Unable to parse XML!	2	
+904106	Stored for meter!	2	
+904105	Unable to store value for device:vari- able not found in template!	2	
+904101	Setmasterkeyforcommunication module	2	
+904013	Internal database error	2	
+904012	Internal database error	2	
+904011	Internal database error	2	
+904010	Cron job parameter is missing!	2	
+904009	Internal database error	2	
+904008	Internal database error	2	
+904007	Internal database error	2	
+904006	Internal database error	2	
+904005	Internal database error	2	
+904004	Internal database error	2	
+904003	Column not found!	2	
+904002	Unknown column	2	
+904001	Unable to open master key file	2	
+902004	Unable to retrieve imported file from parameters!	2	
+902003	Unable to send confirmation e-mail	2	
+902002	Unable to retrieve process details	2	
+902001	Unable to retrieve parameters	2	
+902000	Unable to retrieve children for import process (ID: %1$s)!	2	
+901005	Behavior not yet implemented!	2	
+901004	Internal database error	2	
+901003	Internal database error	2	
+901002	Internal database error	2	
+901001	Internal database error	2	
+900204	Internal database error	2	
+900203	Internal database error	2	
+900202	Internal database error	2	
+900201	Internal database error	2	
+900110	The UUID was already used in this im- port request!	2	
+900109	Malformed XML	2	
+900108	Malformed XML	2	
+900107	Malformed XML	2	
+900106	Malformed XML	2	
+900105	Malformed XML	2	
+900104	Malformed XML	2	
+900103	Malformed XML	2	
+900102	Malformed XML	2	
+900101	Malformed XML	2	
+900018	Unable to create import job	2	
+900017	Unable to create MeterServerID	2	
+900016	Unable to create MeterServerID	2	
+900015	Unable to create MeterServerID	2	
+900014	No material for internal module found	2	
+900013	Internal database error:Unable to re- late child jobs to import job!	2	
+900012	Unable to move marriage file!	2	
+900011	Unique ID of the comm-module for de- vice was empty!	2	
+900010	Unabletomovemarriagefile,target directory does not exist!	2	
+900009	Marriage file is too large!	2	
+900008	Marriage file is empty!	2	
+900007	No marriage file found!	2	
+900006	Unable to create meter server ID!	2	
+900005	Unknown internal module!	2	
+900004	Cron job parameter is missing!	2	
+900003	Unique ID of the device was empty!	2	
+900002	Material ID not found in ZONOS!	2	
+900001	No material ID found!	2	
+801000	Change of communication module	3	
+800003	Device online, but not installed	2	
+800002	Device online	2	
+800001	Device offline	3	
+800000	Device online	2	
+70001	Retrieving certificate failed	3	
+70000	Unknown certificate	3	
+61400	Device communication error	1	
+61202	Main RCD	3	
+61201	Main MCB tripped	3	
+61008	Emergency stop button pushed	3	
+61007	Error starting or stopping a charge transaction	2	
+61006	Contactor error	1	
+61005	Charge point faulted	1	
+61004	Other type of error.	1	
+61003	Tilt	1	
+61002	Tamper	2	
+61001	HMI faulted	1	
+61000	Other type of error.	1	
+60503	Proximity error (Mode 3)	1	
+60502	Electric vehicle controller error	1	
+60501	Problem with Mode 3 connection to ve- hicle.	1	
+60500	Temperature inside charge point is too high.	1	
+60400	Wireless communication device re- ports a weak signal.	1	
+60301	Failure with ID tag reader.	1	
+60300	Failure with ID tag reader.	1	
+60205	Voltage has dropped below an accept- able level.	2	
+60204	Failure to control power switch.	2	
+60203	Failure to read power meter.	2	
+60202	Over current protection device has tripped	3	
+60200	Ground fault circuit interrupter has been activated.	3	
+60100	Failure to lock or unlock connector.	1	
+60000	No error to report.	1	
+505159	Fatal error: empty battery, watch-dog conversion, CRC error conversion, watchdog interface, CRC error inter-	3	
+505158	Active alarm: Alarm input 1, Alarm in-put 2, NAMUR short-circuit, NAMUR interruption	3	
+505156	Summertime active	3	
+505155	A counter is set	3	
+505154	Clock has been moved more than ns s	3	
+505153	A power up or reset has occurred	3	
+505152	No external power supply	3	
+505151	Metrologicalsettingmodified(pro- gramming switch is operated)	3	
+505150	Conversion error: error in p or t	3	
+505149	Conversion error ended	3	
+505146	Logbooks erased	3	
+505145	Loggers erased	3	
+505143	Alarm Qb1_nx5	2	
+505142	Warning Qb1_nx5	2	
+505141	Alarm Vb1_60	2	
+505140	Warning Vb1_60	2	
+505139	Alarm Qc1_nx5	2	
+505138	Warning Qc1_nx5	2	
+505137	Alarm Vc1_60	2	
+505136	Warning Vc1_60	2	
+505135	Alarm input 1	2	
+505134	Alarm input 2	2	
+505133	Log book (M) full	2	
+505132	Log book (O) full	2	
+505131	Logger cleared	3	
+505130	Log book cleared	3	
+505129	Clock set > 10 s	3	
+505128	Clock set	3	
+505127	Warning pmin	2	
+505126	Warning pmax	2	
+505125	Warning tmin	2	
+505124	Warning tmax	2	
+505123	Alarm pmin	2	
+505122	Alarm pmax	2	
+505121	Alarm tmin	2	
+505120	Temperature > Alarm tmax	2	
+505119	Alarm volume difference	3	
+505118	Battery exchanged	3	
+505117	Error in p or t	2	
+505116	Error in Zb	2	
+505115	Low battery	2	
+505114	Error Z or Zb	2	
+505113	Alarm pressure	2	
+505112	Alarm temperature	2	
+505111	Alarm open casing	2	
+505110	Alarm switch program	2	
+505109	Counters set	3	
+505108	NAMUR short-circuit	2	
+505107	NAMUR open circuit	2	
+505106	Alarm ENCODER	2	
+505105	External power	2	
+505104	Reset	3	
+505103	Watchdog conversion	3	
+505102	CRC error conversion	3	
+505101	Watchdog interface	3	
+505100	CRC error interface	3	
+505003	Target system not reachable	2	
+505002	Target system invalid	2	
+505001	Target system not found	2	
+505000	Schedules for meter	2	
+502112	Decrypt of wM-Bus message failed	2	
+502111	Device unknown	2	
+502110	Firmware update failed.	2	
+502109	Firmware update was successful.	1	
+502108	Firmware update started.	1	
+502107	Emergency power	1	
+502106	Passive-Mode	1	
+502105	Failure condition	1	
+502104	Standby	1	
+502103	Discharge	1	
+502102	Charge	1	
+502101	Active	1	
+502100	Busy	1	
+502011	AFCI-Event (Arc-Detection)	1	
+502010	Inverter is currently being updated	1	
+502009	Overcurrent at SolarNet-Plug detected	1	
+502008	Communicationtoinverter not possi- ble	1	
+502007	No SolarNet-Communication	1	
+502006	Standby	1	
+502005	Inverter turns off	1	
+502004	Power reduction active	1	
+502003	Inverter works as expected	1	
+502002	Inverter starts	1	
+502001	Auto-Shutdown	1	
+502000	Inverter is turned off	1	
+501800	Breaker weld	3	
+501799	Clear All	1	
+501798	Clear load profile	1	
+501797	Clear event	1	
+501796	Clear demand	1	
+501795	Clear energy	1	
+501794	KW/MW display set	1	
+501793	Demand decimal value set	1	
+501792	Energy decimal value set	1	
+501791	CT secondary value set	1	
+501790	CT primary value set	1	
+501789	Auxiliary power on	1	
+501788	Auxiliary power off	1	
+501787	Net power on	1	
+501786	Net power off	1	
+501785	Clock battery under voltage	2	
+501784	Power off meter reading battery under voltage	2	
+501783	Frequency over range end	3	
+501782	Frequency over range start	3	
+501781	Voltage phase error end	3	
+501780	Voltage phase error start	3	
+501779	Current phase error end	3	
+501778	Current phase error start	3	
+501777	Calibration error	3	
+501776	Meter parameterization	1	
+501775	Communication problems	3	
+501774	Reactive demand emport over range end	3	
+501773	Reactive demand export over range start	3	
+501772	Reactive demand import over range end	3	
+501771	Reactive demand import over range start	3	
+501770	Active demand export over range end	3	
+501769	Active demand export over range start	3	
+501768	Active demand import over range end	3	
+501767	Active demand import over range start	3	
+501766	Time set	1	
+501765	Power break phase C end	3	
+501764	Power break phase B end	3	
+501763	Power break phase A end	3	
+501762	Power break phase C start	3	
+501761	Power break phase B start	3	
+501760	Power break phase A start	3	
+501759	Over voltage phase C end	3	
+501758	Over voltage phase B end	3	
+501757	Over voltage phase A end	3	
+501756	Over voltage phase C start	3	
+501755	Over voltage phase B start	3	
+501754	Over voltage phase A start	3	
+501753	Under voltage phase C end	3	
+501752	Under voltage phase B end	3	
+501751	Under voltage phase A end	3	
+501750	Under voltage phase C start	3	
+501749	Under voltage phase B start	3	
+501748	Under voltage phase A start	3	
+501747	Current without voltage phase C end	3	
+501746	Current without voltage phase B end	3	
+501745	Current without voltage phase A end	3	
+501744	Current without voltage phase C start	3	
+501743	Current without voltage phase B start	3	
+501742	Current without voltage phase A start	3	
+501741	Increment in billing counter	1	
+501740	Meter load (dis-)connected	1	
+501739	Prepay emergency credit activated	1	
+501738	Prepay emergency credit expired	1	
+501737	Prepay credit expired	1	
+501736	Prepay token enter fail	2	
+501735	Prepay token enter success	1	
+501734	Power restored phase L3	3	
+501733	Power restored phase L2	3	
+501732	Power restored phase L1	3	
+501731	Power down phase L3	3	
+501730	Power down phase L2	3	
+501729	Power down phase L1	3	
+501728	Single action schedule for image acti- vation	1	
+501727	Disabled - load limit function	1	
+501726	Enabled - load limit function	1	
+501725	Overload - restoration	3	
+501724	Overload - occurence	3	
+501723	Configurationchangetoâ€˜importand exportâ€™ mode	1	
+501722	Configurationchangetoâ€˜forwarded onlyâ€™ mode	1	
+501721	Configurationchangetopre-paid mode	1	
+501720	Configurationchangetopost-paid mode	1	
+501719	Plugincommunicationmodulere- moval restoration	2	
+501718	Plug in communication module re-moval occurence	2	
+501717	MD reset	1	
+501716	ESWF change	1	
+501715	Global key change (encryption and au- thentication)	1	
+501714	HLS key (FW) change	1	
+501713	HLS key (US) change	1	
+501712	LLS secret(MR) change	1	
+501711	Earth Load - Restoration	3	
+501710	Earth Load - Occurence	3	
+501709	Processed invalid readings	2	
+501707	Specific error	2	
+501705	Broken pipe	2	
+501703	Error occurred	2	
+501636	Active firmware identifier signature 3	1	
+501635	Active firmware identifier 3	1	
+501634	Module firmware version signature	1	
+501633	E-meter firmware version	1	
+501632	E-meter firmware version under legal control signature	1	
+501631	Optical tamper.	2	
+501630	Frame counter warning threshold ex- ceeded	2	
+501629	Firmware verification/activation failed	3	
+501628	Load relay change request - remote	1	
+501627	G3 PSK change	1	
+501626	Consumer interface re-activated	1	
+501625	Consumer interface de-activated	1	
+501624	Association authentication failure	3	Fraud Detection
+501623	FOTA upgrading failed	3	
+501622	FOTA upgrading succeeded	1	
+501621	FOTA upgrading initiated	1	
+501620	End of non-periodic billing interval	1	
+501619	Meter disconnector tripping reason	1	
+501618	Event monitoring report	2	
+501617	Nil consumption with service notifica- tion action in SAP	2	
+501616	8consecutivezeros(channelvalida- tion)	2	
+501615	Modification meter MF at device level	2	
+501614	Oldmeterreadingadjustmentre- quired at time of meter replacement	2	
+501613	Device active at site but disconnected in SAP or vice versa	2	
+501612	AMI communication monitoring	2	
+501611	No consumption	2	
+501610	Meter not present	2	
+501609	Latched continuous flow	2	
+501608	Broken communication to metrology	2	
+501607	Magnetic tamper	2	
+501606	Very low PF disappeared	2	
+501605	Very low PF	2	
+501604	Neutral disturbance disappeared	2	
+501603	Neutral disturbance	2	
+501602	Activity calendar for time zones etc.	2	
+501601	Single-action schedule for billing dates	2	
+501600	Profile capture period	2	
+501599	Demand integration period	2	
+501598	Real time clock, date and time	2	
+501597	Overcurrentonphaseâ€˜%1$sâ€™disap- peared	2	
+501596	Current bypass disappeared	2	
+501595	Current bypass	2	
+501594	Current failure on phase â€˜%1$sâ€™ disap- peared	2	
+501593	Current failure on phase â€˜%1$sâ€™	2	
+501592	Phase â€˜%1$sâ€™ reversed disappeared	2	
+501591	Phase â€˜%1$sâ€™ reversed	2	
+501590	Undervoltage disappeared	2	
+501589	Overvoltage disappeared	2	
+501588	Current unbalance disappeared	2	
+501587	Current unbalance	2	
+501586	Voltage unbalance disappeared	2	
+501585	Voltage unbalance	2	
+501584	Load profile 2 cleared	2	
+501583	Energy total and rate register cleared	2	
+501582	Compensation values changed	2	
+501581	Alert occurred	2	
+501580	SMS delivery to GSM failed	2	
+501579	Count registers cleared	2	
+501578	Wrong extension board identification	2	
+501577	Communication locked	2	
+501576	Invalid start-up sequence	2	
+501575	Control input reset	2	
+501574	Control input set	2	
+501573	Load profile 2 checksum error	2	
+501572	Calibration data checksum error	2	
+501571	Event log checksum error	2	
+501570	Stored values checksum error	2	
+501569	Load profile checksum error	2	
+501568	Parameter checksum error	2	
+501567	Backup data checksum error	2	
+501566	Program checksum error	2	
+501565	Display board access error	2	
+501564	Communication unit access error	2	
+501563	Load profile access error	2	
+501562	Time device access error	2	
+501561	Measuring system access error	2	
+501560	Backup memory access error	2	
+501559	Correct phase sequence	2	
+501558	Wrong phase sequence	2	
+501557	All registers and profiles cleared	2	
+501556	Missing additional power supply	2	
+501555	Current without voltage	2	
+501554	Missing voltage	2	
+501553	Demand monitors	2	
+501552	Power factor monitor	2	
+501551	Billing period reset	2	
+501550	Battery ok	2	
+501549	Overcurrent	2	
+501548	Overvoltage	2	
+501547	Undervoltage	2	
+501546	Storedvaluesand/orloadprofile cleared	3	
+501545	All energy registers cleared	3	
+501544	InvalidM-Busmasterkey-wrong length!	3	
+501543	E-meter firmware version	1	
+501542	OBIS code not found in capture object list of profile!	3	
+501541	SelectiveAccessparameterlistis empty!	3	
+501540	Limiter may only be set to monitor in- stantaneouscurrentorinstantaneous power!	3	
+501539	Invalid OBIS code for setting TOU	3	
+501538	M-Busunbind:Invalidparameter data!	3	
+501537	Operation not supported for OBIS ob- ject!	3	
+501536	Requested operation not supported by meter device	3	
+501535	Error initiating image activation on de- vice!	3	
+501534	Firmware image activation failed	3	
+501533	Error initiating image verification	3	
+501532	Firmware image verification failed	3	
+501531	Unabletoinitiateimagetransfer method on device!	3	
+501530	Error initiating image transfer	3	
+501528	Devicedoesnotallowfirmwareup- dates	3	
+501526	Unable to convert device date/time to UNIX timestamp!	3	
+501525	Unable to parse meter time stamp!	3	
+501524	Unable to read device timezone DST flag!	3	
+501523	Unable to read device DST deviation!	3	
+501522	Unable to read device timezone!	3	
+501521	Unable to retrieve register %2$s!	3	
+501520	Unable to parse image transfer status!	3	
+501519	Unable to parse disconnector state!	3	
+501518	Unable to set disconnector mode!	3	
+501517	Unable to parse disconnector mode!	3	
+501516	Unable to parse disconnector state!	3	
+501515	Unable to retrieve data %1$s	3	
+501514	Unable to parse date string supplied by TOU XML	3	
+501513	Unable to parse time string supplied by TOU XML	3	
+501512	Unable to parse meter ID	3	
+501511	Unable to parse incoming data!	3	
+501510	Unable to parse incoming data!	3	
+501509	Firmware image file not found	3	
+501508	Unable to read pulse input count!	3	
+501507	Error during resending firmware im- age data blocks!	3	
+501506	Error during block transfer of firmware image!	3	
+501505	Error during synchronous send/receive: %1$s	3	
+501504	Error during synchronous send/receive: Incorrect DLMS keys supplied.	3	
+501503	Error during conversion of received DLMS PDU	3	
+501502	Error during synchronous send/receive in HDLC protoco	3	
+501500	Unable to set meter time!	3	
+501499	Error parsing malformed P1 configura- tion XML!	3	
+501497	Unable to open firmware image file!	3	
+501496	ReadingE-meterfirmwareversion failed!	3	
+501495	Readingmodulefirmwareversion failed!	3	
+501494	Type of value is invalid for budget me- tering!	3	
+501493	Unknown OBIS code for getting activ- ity calendar	3	
+501492	Unable to parse malformed TOU XML! See schema definition file!	3	
+501491	Fraud attempt detected	3	
+501490	Invalid device serial ID - M-Bus device entry discarded!	3	
+500518	Modem removed	1	
+500517	ACK not received	1	
+500516	TCP/IP connection establishment fail- ure	1	
+500515	Ping response not received	1	
+500514	Loadmanagement-activitycalendar programmed	1	
+500513	Loadmanagement-passiveactivity calendar activated	1	
+500512	End certification mode	1	
+500511	Start certification mode	1	
+500510	Tariffication scheme change	1	
+500509	Local interface re-activated	1	
+500508	Local interface de-activated	1	
+500507	Re-initialisation of the random number generator	1	
+500506	SettingtheDLMSsecuritypolicy failed!	2	
+500505	Setting the DLMS security keys failed	2	
+500504	Module firmware version	1	
+500503	Device disconnector is ready for recon-nect	1	
+500502	Invalid interface	3	
+500501	Device disconnector is disconnected	1	
+500500	Device disconnector is connected	1	
+500499	Firmware image successfully updated!	1	
+500498	Activation failed	3	
+500497	Signature verification failed	3	
+500496	Transfer not initialized	3	
+500495	Firmware update not supported	3	
+500494	parser error (meter â€˜%1$sâ€™ sent unex-pected data)	3	
+500493	Error during synchronous send/receive (socket error)!	3	
+500492	Unable to authenticate at meter device	3	
+500491	Unable to connect to device	3	
+500490	Unknown error on device	2	
+50007	Hormal to high threshold transition	2	
+50006	Normal to low threshold transition	2	
+50005	High to normal profile transition	2	
+50004	Low to normal profile transition	2	
+50003	Normal to high profile transition	2	
+50002	Normal to low profile transition	2	
+50001	Currently high profile	2	
+500000	Event with no mapping of decimal event number: numToAsc(eventCode)	2	
+50000	Currently low profile	2	
+409049	High Pressure	2	
+409048	Low Pressure	2	
+409047	Dry	2	
+409046	Leak	3	
+409045	Burst	3	
+409044	High ambient temperature	2	
+409043	Low ambient temperature	2	
+409042	Last temperature measurement out of range	2	
+409041	Lasthumiditymeasurementoutof range	2	
+409040	Permanent error	3	
+409039	Internal error	3	
+409038	Failedtodeliverlasthttpreadings: %1$s	1	
+409037	Failedtodeliverlastftpreadings: %1$s	1	
+409036	Failedtodeliverlastemailreadings: %1$s	1	
+409035	Battery voltage above limit: %1$s	2	
+409034	Battery voltage below limit: %1$s	2	
+409033	Door closed	1	
+409032	Door open	1	
+409031	Startup	1	
+409030	Overflow	2	
+409029	No usage	2	
+409028	Low temperature	2	
+409027	Low voltage	2	
+409026	Display overflow (energy/volume)	3	
+409025	Battery consumption too high	3	
+409024	High flow	3	
+409023	Negative flow	3	
+409022	Flow outside measured range	3	
+409021	Low transducer signal	3	
+409020	Absolute/Differencetemperatureout- side accumulated range	3	
+409019	Return temperature error	3	
+409018	Supply temperature error	3	
+409017	Battery low (less than 12 months)	3	
+409016	Battery empty (less than 1 month)	3	
+409015	PCB error	3	
+409014	System error	3	
+409013	Low flow	3	
+409012	First Breath	3	
+409011	Last Gasp	3	
+409010	Coil not connected	3	
+409009	Sensor not connected	3	
+409008	Sensor communications fault	3	
+409007	Pressure measurement fault	3	
+409006	External battery failure	3	
+409005	External battery warning	2	
+409004	MID (read only) switch	2	
+409003	High DC voltage (alarm)	2	
+409002	High DC voltage (battery power)	2	
+409001	High DC voltage (any power type)	2	
+409000	Internal alarm %2$s	3	
+408021	Intruder alert detected.	3	
+408020	Smoke alert detected.	3	
+408019	Manual test detected.	1	
+408018	Qmax overlapped for 10 minutes.	1	
+408017	Backward flow bigger than 20 liters.	1	
+408016	Module has been removed.	2	
+408015	Meter has been removed.	1	Physical Meter Events
+408014	Hydrus - Error E1 Temperature out of range or E4 Hardware error, Ultrasonic transducer defect	3	
+408013	Hydrus - Alarm A3 No Usageor A5 Leakage	2	
+408012	Error temperature hardware	3	
+408011	Hydrus - Error E5	3	
+408010	Air in pipe	3	
+408009	Temperature out of range	3	
+408008	Ultrasonic transducer defect or  short-circuit	3	
+408007	Basic parameter in flash or RAM de-stroyed	3	
+408006	Measurement error	3	
+408005	Overflow error	3	
+408004	Overflow	2	
+408003	Reverse flow	2	
+408002	No usage	2	
+408001	End of life	2	
+408000	Empty pipe	2	
+407035	C4alarm29=Phase3CurrentRe- verse	3	
+407034	C4alarm28=Phase2CurrentRe- verse	3	
+407033	C4alarm27=Phase1CurrentRe- verse	3	
+407032	C4 alarm 26 = Time difference alarm	2	
+407031	C4 alarm 25 = Power alert	2	
+407030	C4 alarm 24 = Communication success with modem	1	
+407029	C4 alarm 17 = New M-Bus device dis- covered	1	
+407028	C4 alarm 16 = Communication error M-Bus	3	
+407027	C4 alarm 15 = Ground fault	3	
+407026	C4 alarm 14 = Meter reconfigured	1	
+407025	C4 alarm 13 = Fraud attempt	2	
+407024	C4 alarm 12 = Watchdog error	3	
+407023	C4alarm11=Measurementsystem error	3	
+407022	C4 alarm 10 = NV memory error	3	
+407021	C4 alarm 9 = RAM error	3	
+407020	C4 alarm 8 = Program memory error	3	
+407019	C4 alarm 7 = Power back in any phase	1	
+407018	C4alarm6=Powerfailureinany phase	3	
+407017	C4 alarm 5 = L3 connected incorrectly or interruption	3	
+407016	C4 alarm 4 = L2 connected incorrectly or interruption	3	
+407015	C4 alarm 3 = L1 connected incorrectly or interruption	3	
+407014	C4 alarm 2 = Power up	1	
+407013	C4 alarm 0 = Clock invalid	3	
+407012	Reverse export detected	2	
+407011	Time validation failed	2	
+407010	Detected device	1	
+407009	Received device number	1	
+407008	Restart with new firmware image	1	
+407007	Gateway/Terminal finished download of file	1	
+407006	Gateway started download of file/Terminal started listening for file broadcast	1	
+407005	Gateway finished broadcast of file	1	
+407004	Gateway started broadcast of file	1	
+407003	Successful login to server	1	
+407002	Switched to another parent terminal	1	
+407001	Terminal lost power	2	
+407000	Terminal reboot	1	
+406027	Large scale disturbance smart meters (EDSN Rejection-Code: 041/ Reason:Functional)	3	
+406026	New resident at meter location; au- thorization missing (EDSN Rejection-Code: 040/ Reason: Functional)	3	
+406025	Smart meter disabled for remote reading on customer request (EDSN Rejection-Code: 039/ Reason: Func-tional)	3	
+406024	The smart meter is turned off for ad- ministrative reasons (EDSN Rejection- Code: 038 / Reason: Functional)	3	
+406023	Status meter 'Code red' (EDSN Rejection-Code: 026 / Reason: Func- tional)	3	
+406022	Result of connection task unknown (EDSN Rejection-Code: 025 / Reason: Functional)	3	
+406021	Requested meter data is not available; problem is known and being worked on (EDSN Rejection-Code: 014 / Rea- son: Functional)	3	
+406020	Requestedmeterdatanotavail- able;meterbeingdeployed(EDSN Rejection-Code:009/Reason:Func- tional)	3	
+406019	P4: Retrieving meter data timed out	3	
+406018	P4: Runtime error	3	
+406017	P4:ErrorwhileconnectingtoP4 server	3	
+406016	Messagecannotbedeliveredtogrid operator (EDSN Rejection-Code: 037 / Reason: Functional)	3	
+406015	EAN code of grid operator is unknown (EDSN Rejection-Code:036 / Reason: Functional)	3	
+406014	This code is not allowed for standard messages (EDSN Rejection-Code:035 / Reason: Functional)	3	
+406013	Resultdatarequest/controltaskun- known(EDSNRejection-Code:031/ Reason: Functional)	3	
+406012	Executionoftaskfailed:Technical problem (EDSN Rejection-Code: 023 / Reason: Functional)	3	
+406011	Producttypeandtaskmisaligned (EDSN Rejection-Code:022 / Reason: Functional)	3	
+406010	This specific request cannot be carried outbythismeter(EDSNRejection- Code: 013 / Reason: Functional)	3	
+406009	Requesteddatanotavailable,me- terhastemporaryproblem(EDSN Rejection-Code:012 / Reason:Func- tional)	3	
+406008	Dateforrequesteddataistoolong ago; metering data not more available (EDSN Rejection-Code:011 / Reason: Functional)	3	
+406007	Requested data is in the future; me- ter data is not yet available (EDSN Rejection-Code: 010 / Reason: Func-tional)	3	
+406006	The requesting party is not autho- rized (see authorization table) (EDSN Rejection-Code: 008 / Reason: Func-tional)	3	
+406005	No smart meter at the EAN for the re- quest date (EDSN Rejection-Code: 007 / Reason: Functional)	3	
+406004	The EAN code is unknown at the re- quest date (EDSN Rejection-Code: 006 / Reason: Functional)	3	
+406003	Standard error message authentica- tion. The EAN code of the request- ing party does not match the certificate (EDSN Rejection-Code: 003 / Reason:Protocol)	3	
+406002	Value in the request does not comply with the requirements of the protocol (EDSN Rejection-Code: 001 / Reason: Protocol)	3	
+406001	Requesting party is not authorized to receive data for this EAN code (EDSN Rejection-Code: 000 / Reason: Proto- col)	3	
+405905	Authorization error	2	
+405904	Not logged in	2	
+405903	Invalid session key	2	
+405902	Account not found	2	
+405901	Account disabled	2	
+405200	Invalid report data	2	
+405114	Magnetic tamper M-bus channel 4	3	
+405113	Magnetic tamper M-bus channel 3	3	
+405112	Magnetic tamper M-bus channel 2	3	
+405111	Magnetic tamper M-bus channel 1	3	
+405110	Ultrasonic transducer defect or short-circuit M-bus channel 4	3	
+405109	Ultrasonictransducer defect orshort- circuit M-bus channel 3	3	
+405108	Ultrasonictransducer defect orshort- circuit M-bus channel 2	3	
+405107	Ultrasonictransducer defect orshort- circuit M-bus channel 1	3	
+405106	BasicparameterinflashorRAMde- stroyed M-bus channel 4	3	
+405105	BasicparameterinflashorRAMde- stroyed M-bus channel 3	3	
+405104	BasicparameterinflashorRAMde- stroyed M-bus channel 2	3	
+405103	BasicparameterinflashorRAMde- stroyed M-bus channel 1	3	
+405102	Invalid report: missing header	2	
+405101	Invalid report template	2	
+405100	Empty report	2	
+405099	Measurement error M-bus channel 4	3	
+405098	Measurement error M-bus channel 3	3	
+405097	Measurement error M-bus channel 2	3	
+405096	Measurement error M-bus channel 1	3	
+405095	Water overflow error M-bus channel 4	3	
+405094	Water overflow error M-bus channel 3	3	
+405093	Water overflow error M-bus channel 2	3	
+405092	Water overflow error M-bus channel 1	3	
+405091	Water overflow M-bus channel 4	3	
+405090	Water overflow M-bus channel 3	3	
+405089	Water overflow M-bus channel 2	3	
+405088	Water overflow M-bus channel 1	3	
+405087	Water reverse flow M-bus channel 4	3	
+405086	Water reverse flow M-bus channel 3	3	
+405085	Water reverse flow M-bus channel 2	3	
+405084	Water reverse flow M-bus channel 1	3	
+405083	Water leakage M-bus channel 4	3	
+405082	Water leakage M-bus channel 3	3	
+405081	Water leakage M-bus channel 2	3	
+405080	Water leakage M-bus channel 1	3	
+405079	Water flow overload M-bus channel 4	3	
+405078	Water flow overload M-bus channel 3	3	
+405077	Water flow overload M-bus channel 2	3	
+405076	Water flow overload M-bus channel 1	3	
+405075	Internal software error M-bus channel 4	3	
+405074	Internal software error M-bus channel 3	3	
+405073	Internal software error M-bus channel 2	3	
+405072	Internal software error M-bus channel 1	3	
+405071	Prepaid threshold breach	2	
+405070	Device alarm: Prepaid threshold breach	2	
+405069	Device alarm: New M-Bus device dis- covered channel 4	1	
+405068	Device alarm: New M-Bus device dis- covered channel 3	1	
+405067	Device alarm: New M-Bus device dis- covered channel 2	1	
+405066	Device alarm: New M-Bus device dis- covered channel 1	1	
+405065	Device alarm: Fraud attempt M-Bus channel 4	2	
+405064	Device alarm: Fraud attempt M-Bus channel 3	2	
+405063	Device alarm: Fraud attempt M-Bus channel 2	2	
+405062	Device alarm: Fraud attempt M-Bus channel 1	2	
+405061	Device alarm: Communication errorM-Bus channel 4	3	
+405060	Device alarm: Communication errorM-Bus channel 3	3	
+405059	Device alarm: Communication errorM-Bus channel 2	3	
+405058	Devicealarm:Communicationerror M-Bus channel 1	3	
+405057	WAN interface status changed	2	
+405056	Min-Under-Threshold duration of lim- iter changed	2	
+405055	Min-Over-Thresholddurationoflim- iter changed	2	
+405054	MaintenanceP0interfacestatus changed	2	
+405053	Machine certificate rollback	2	
+405052	Machine certificate invalid	2	
+405051	HAN IP conflict detected	2	
+405050	HAN disabled	2	
+405049	HAN enabled	2	
+405048	PLCevent:multiplemastersforone slave	2	
+405047	PLCevent:masterslaveconflict searching	2	
+405046	PLC event: master detected slave	2	
+405045	Return flow	2	
+405044	SCM meter resumed	2	
+405043	SCM meter suspended	2	
+405042	System startup	2	
+405041	Mode retrieved	2	
+405040	Mode change requested	2	
+405039	Mode select standalone fall back	2	
+405038	WAN IP configured	2	
+405037	WAN peer MAC	2	
+405036	PLC off request	2	
+405035	SCM meter inactive	2	
+405034	SCM meter active	2	
+405033	SCM communication error	2	
+405032	SCM software failure	2	
+405031	CA certificate updated	2	
+405030	Meter key change requested	2	
+405029	WAN connected	2	
+405028	WAN uplink available	2	
+405027	Relay closed	2	
+405026	Relay opened	2	
+405025	User account disabled	2	
+405024	User account enabled	2	
+405023	Network adapter restart	2	
+405022	GPRS connection error	2	
+405021	WAN link down	2	
+405020	Time synchronization failed	2	
+405019	Self test failed	2	
+405018	Self test passed	2	
+405017	Master slave disconnect	2	
+405016	PPP connection down	2	
+405014	Master slave connection error	2	
+405013	PLC channel conflict	2	
+405012	WAN connection error	2	
+405011	IPT connection error	2	
+405010	AMM push target error	2	
+405009	P0 error	2	
+405008	P0 connection established	2	
+405007	Access denied because of insufficient authorization	2	
+405006	Configuration error	2	
+405005	PLC fall back	2	
+405004	Master slave reject	2	
+405003	Mode select failed	2	
+405002	Mode select success	2	
+405001	LED problem	2	
+405000	Service start failed	2	
+404005	Temperature critical	2	
+404004	Lower flow rate limit exceeded	2	
+404003	Upper flow rate limit exceeded	2	
+404002	Upper temperature limit exceeded	2	
+404001	Lower temperature limit exceeded	2	
+404000	Temperature error	2	
+403333	Task failed	3	
+403209	Overcurrent L3	3	
+403208	Overcurrent L2	3	
+403207	Overcurrent L1	3	
+403206	clearingofprofile1orenergyvalues profile	1	
+403205	all-phase outage	3	
+403204	Frequency low	2	
+403203	Frequency high	2	
+403202	Average voltage low	2	
+403201	Average voltage high	2	
+403200	Reactive power too high disappears	1	
+403199	Active power too high disappears	1	
+403198	Single-phase outage L3	3	
+403197	Single-phase outage L2	3	
+403196	Single-phase outage L1	3	
+403195	Missingmeasurementcurrentonall phases	3	
+403194	Internal profile data checksum error	3	
+403193	Data profile memory error (FLASH)	3	
+403192	Time base error	3	
+403191	Reactive power too high	2	
+403190	Active power too high	2	
+403189	Bypass feeder operation	1	
+403188	EOI rate switching	1	
+403187	DST enabled or disabled	1	
+403186	Profile 1 and/or energy profile cleared	1	
+403185	Tariff registers cleared	1	
+403184	ShorttermovervoltageonphaseL3 end	1	
+403183	ShorttermovervoltageonphaseL2 end	1	
+403182	ShorttermovervoltageonphaseL1 end	1	
+403181	ShorttermovervoltageonphaseL3 start	2	
+403180	ShorttermovervoltageonphaseL2 start	2	
+403179	Short term over voltage on phase L1 start	2	
+403178	Short term under voltage on phase L3 end	1	
+403177	Short term under voltage on phase L2 end	1	
+403176	Short term under voltage on phase L1 end	1	
+403175	Short term under voltage on phase L3 start	2	
+403174	Short term under voltage on phase L2 start	2	
+403173	Short term under voltage on phase L1 start	2	
+403172	Long term over voltage on phase L3 end	1	
+403171	Long term over voltage on phase L2 end	1	
+403170	Long term over voltage on phase L1 end	1	
+403169	Long term over voltage on phase L3 start	2	
+403168	Long term over voltage on phase L2 start	2	
+403167	Long term over voltage on phase L1 start	2	
+403166	Long term under voltage on phase L3 end	1	
+403165	Long term under voltage on phase L2 end	1	
+403164	Long term under voltage on phase L1 end	1	
+403163	Long term under voltage on phase L3 start	2	
+403162	Long term under voltage on phase L2 start	2	
+403161	Long term under voltage on phase L1 start	2	
+403160	New M-bus device discovered channel 4	1	
+403159	New M-bus device discovered channel 3	1	
+403158	New M-bus device discovered channel 2	1	
+403157	New M-bus device discovered channel 1	1	
+403156	Communication error channel 4	3	
+403155	Communication error channel 3	3	
+403154	Communication error channel 2	3	
+403153	Communication error channel 1	3	
+403152	ShortpowerfailureonphaseL3end (Powerfailuresinanyphase-dura- tion:%1$s s, power:%2$s kW, volt- age: %3$s V)	2	
+403151	ShortpowerfailureonphaseL2end (Powerfailuresinanyphase-dura- tion:%1$s s, power:%2$s kW, volt- age: %3$s V)	2	
+403150	ShortpowerfailureonphaseL1end (Powerfailuresinanyphase-dura- tion:%1$s s, power:%2$s kW, volt- age: %3$s V)	2	
+403149	LongpowerfailureonphaseL3end (Powerfailuresinanyphase-dura- tion:%1$s s, power:%2$s kW, volt- age: %3$s V)	2	
+403148	LongpowerfailureonphaseL2end (Powerfailuresinanyphase-dura- tion:%1$s s, power:%2$s kW, volt- age: %3$s V)	2	
+403147	LongpowerfailureonphaseL1end (Powerfailuresinanyphase-dura- tion:%1$s s, power:%2$s kW, volt- age: %3$s V)	2	
+403146	Voltage interruption on phase L3 start (Powerfailuresinanyphase-dura- tion:%1$s s, power:%2$s kW, volt- age: %3$s V)	2	
+403145	Voltage interruption on phase L2 start(Power failures in anyphase - dura-tion: %1$s s, power: %2$s kW, volt-age: %3$s V)	2	
+403144	Voltage interruption on phase L1 start(Power failures in anyphase - dura-tion: %1$s s, power: %2$s kW, volt-age: %3$s V)	2	
+403143	25th order harmonic distortion on phase L3 end	2	
+403142	25th order harmonic distortion on phase L2 end	2	
+403141	25th order harmonic distortion on phase L1 end	2	
+403140	25th order harmonic distortion on phase L3 start	2	
+403139	25th order harmonic distortion on phase L2 start	2	
+403138	25th order harmonic distortion on phase L1 start	2	
+403137	24th order harmonic distortion on phase L3 end	2	
+403136	24th order harmonic distortion on phase L2 end	2	
+403135	24th order harmonic distortion on phase L1 end	2	
+403134	24th order harmonic distortion on phase L3 start	2	
+403133	24th order harmonic distortion on phase L2 start	2	
+403132	24th order harmonic distortion on phase L1 start	2	
+403131	23th order harmonic distortion on phase L3 end	2	
+403130	23th order harmonic distortion on phase L2 end	2	
+403129	23th order harmonic distortion on phase L1 end	2	
+403145	Voltage interruption on phase L2 start(Power failures in anyphase - dura-tion: %1$s s, power: %2$s kW, volt-age: %3$s V)	2	
+403144	Voltage interruption on phase L1 start(Power failures in anyphase - dura-tion: %1$s s, power: %2$s kW, volt-age: %3$s V)	2	
+403143	25th order harmonic  distortion on phase L3 end	2	
+403142	25th order harmonic  distortion on phase L2 end	2	
+403141	25th order harmonic distortion on phase L1 end	2	
+403140	25th order harmonic distortion on phase L3 start	2	
+403139	25th order harmonic distortion on phase L2 start	2	
+403138	25th order harmonic distortion on phase L1 start	2	
+403137	24th order harmonic distortion on phase L3 end	2	
+403136	24th order harmonic distortion on phase L2 end	2	
+403135	24th order harmonic distortion on phase L1 end	2	
+403134	24th order harmonic distortion on phase L3 start	2	
+403133	24th order harmonic distortion on phase L2 start	2	
+403132	24th order harmonic distortion on phase L1 start	2	
+403131	23th order harmonic  distortion on phase L3 end	2	
+403130	23th order harmonic distortion on phase L2 end	2	
+403129	23th order harmonic distortion on phase L1 end	2	
+403128	23th order harmonic distortion on phase L3 start	2	
+403127	23th order harmonic distortion on phase L2 start	2	
+403126	23th order harmonic distortion on  phase L1 start	2	
+403125	22th order harmonic distortion on phase L3 end	2	
+403124	22th order harmonic distortion on phase L2 end	2	
+403123	22th order harmonic distortion on phase L1 end	2	
+403122	22th order harmonic distortion on phase L3 start	2	
+403121	22th order harmonic distortion on phase L2 start	2	
+403120	22th order harmonic distortion on phase L1 start	2	
+403119	21th order harmonic distortion on phase L3 end	2	
+403118	21th order harmonic distortion on phase L2 end	2	
+403117	21th order harmonic distortion on phase L1 end	2	
+403116	21th order harmonic distortion on phase L3 start	2	
+403115	21th order harmonic distortion on  phase L2 start	2	
+403114	21th order harmonic distortion on phase L1 start	2	
+403113	20th order harmonic distortion on phase L3 end	2	
+403112	20th order harmonic distortion on phase L2 end	2	
+403111	20th order harmonic distortion on phase L1 end	2	
+403110	20th order harmonic distortion on phase L3 start	2	
+403109	20th order harmonic distortion on phase L2 start	2	
+403108	20th order harmonic distortion on phase L1 start	2	
+403107	19th order harmonic distortion on phase L3 end	2	
+403106	19th order harmonic distortion on phase L2 end	2	
+403105	19th order harmonic distortion on phase L1 end	2	
+403104	19th order harmonic distortion on phase L3 start	2	
+403103	19th order harmonic distortion on phase L2 start	2	
+403102	19th order harmonic distortion on phase L1 start	2	
+403101	18th order harmonic distortion on phase L3 end	2	
+403100	18th order harmonic distortion on phase L2 end	2	
+403099	18th order harmonic distortion on phase L1 end	2	
+403098	18th order harmonic distortion on phase L3 start	2	
+403097	18th order harmonic distortion on phase L2 start	2	
+403096	18th order harmonic distortion on phase L1 start	2	
+403095	17th order harmonic distortion on phase L3 end	2	
+403094	17th order harmonic distortion on phase L2 end	2	
+403093	17th order harmonic distortion on phase L1 end	2	
+403092	17th order harmonic distortion on phase L3 start	2	
+403091	17th order harmonic distortion on phase L2 start	2	
+403090	17th order harmonic distortion on phase L1 start	2	
+403089	16th order harmonic distortion on phase L3 end	2	
+403088	16th order harmonic distortion on phase L2 end	2	
+403087	16th order harmonic distortion on phase L1 end	2	
+403086	16th order harmonic distortion on phase L3 start	2	
+403085	16th order harmonic distortion on  phase L2 start	2	
+403084	16th order harmonic distortion on phase L1 start	2	
+403083	15th order harmonic distortion on phase L3 end	2	
+403082	15th order harmonic distortion on phase L2 end	2	
+403081	15th order harmonic distortion on phase L1 end	2	
+403080	15th order harmonic distortion on phase L3 start	2	
+403079	15th order harmonic distortion on phase L2 start	2	
+403078	15th order harmonic distortion on phase L1 start	2	
+403077	14th order harmonic distortion on phase L3 end	2	
+403076	14th order harmonic distortion on phase L2 end	2	
+403075	14th order harmonic distortion on phase L1 end	2	
+403074	14th order harmonic distortion on phase L3 start	2	
+403073	14th order harmonic distortion on phase L2 start	2	
+403072	14th order harmonic distortion on phase L1 start	2	
+403071	13th order harmonic distortion on phase L3 end	2	
+403070	13th order harmonic distortion on phase L2 end	2	
+403069	13th order harmonic distortion on phase L1 end	2	
+403068	13th order harmonic distortion on phase L3 start	2	
+403067	13th order harmonic distortion on phase L2 start	2	
+403066	13th order harmonic distortion on phase L1 start	2	
+403065	12th order harmonic distortion on phase L3 end	2	
+403064	12th order harmonic distortion on phase L2 end	2	
+403063	12th order harmonic distortion on phase L1 end	2	
+403062	12th order harmonic distortion on phase L3 start	2	
+403061	12th order harmonic distortion on phase L2 start	2	
+403060	12th order harmonic distortion on phase L1 start	2	
+403059	11th order harmonic distortion on phase L3 end	2	
+403058	11th order harmonic distortion on phase L2 end	2	
+403057	11th order harmonic distortion on phase L1 end	2	
+403056	11th order harmonic distortion on phase L3 start	2	
+403055	11th order harmonic distortion on phase L2 start	2	
+403054	11th order harmonic distortion on phase L1 start	2	
+403053	10th order harmonic distortion on phase L3 end	2	
+403052	10thorderharmonicdistortionon phase L2 end	2	
+403051	10thorderharmonicdistortionon phase L1 end	2	
+403050	10thorderharmonicdistortionon phase L3 start	2	
+403049	10thorderharmonicdistortionon phase L2 start	2	
+403048	10thorderharmonicdistortionon phase L1 start	2	
+403047	9thorderharmonicdistortionon phase L3 end	2	
+403046	9thorderharmonicdistortionon phase L2 end	2	
+403045	9thorderharmonicdistortionon phase L1 end	2	
+403044	9thorderharmonicdistortionon phase L3 start	2	
+403043	9thorderharmonicdistortionon phase L2 start	2	
+403042	9thorderharmonicdistortionon phase L1 start	2	
+403041	8thorderharmonicdistortionon phase L3 end	2	
+403040	8thorderharmonicdistortionon phase L2 end	2	
+403039	8thorderharmonicdistortionon phase L1 end	2	
+403038	8thorderharmonicdistortionon phase L3 start	2	
+403037	8thorderharmonicdistortionon phase L2 start	2	
+403036	8thorderharmonicdistortionon phase L1 start	2	
+403035	7thorderharmonicdistortionon phase L3 end	2	
+403034	7thorderharmonicdistortionon phase L2 end	2	
+403033	7th order harmonic distortion on phase L1 end	2	
+403032	7th order harmonic distortion on phase L3 start	2	
+403031	7th order harmonic distortion on phase L2 start	2	
+403030	7th order harmonic distortion on phase L1 start	2	
+403029	6th order harmonic distortion on phase L3 end	2	
+403028	6th order harmonic distortion on phase L2 end	2	
+403027	6th order harmonic distortion on phase L1 end	2	
+403026	6th order harmonic distortion on`phase L3 start	2	
+403025	6th order harmonic distortion on phase L2 start	2	
+403024	6th order harmonic distortion on phase L1 start	2	
+403023	5th order harmonic distortion on phase L3 end	2	
+403022	5th order harmonic distortion on phase L2 end	2	
+403021	5th order harmonic distortion on phase L1 end	2	
+403020	5th order harmonic distortion on phase L3 start	2	
+403019	5th order harmonic distortion on phase L2 start	2	
+403018	5th order harmonic distortion on phase L1 start	2	
+403017	4th order harmonic distortion on phase L3 end	2	
+403016	4th order harmonic distortion on phase L2 end	2	
+403015	4th order harmonic distortion on phase L1 end	2	
+403014	4thorderharmonicdistortionon phase L3 start	2	
+403013	4thorderharmonicdistortionon phase L2 start	2	
+403012	4thorderharmonicdistortionon phase L1 start	2	
+403011	3rdorderharmonicdistortionon phase L3 end	2	
+403010	3rdorderharmonicdistortionon phase L2 end	2	
+403009	3rdorderharmonicdistortionon phase L1 end	2	
+403008	3rdorderharmonicdistortionon phase L3 start	2	
+403007	3rdorderharmonicdistortionon phase L2 start	2	
+403006	3rdorderharmonicdistortionon phase L1 start	2	
+403005	2ndorderharmonicdistortionon phase L3 end	2	
+403004	2ndorderharmonicdistortionon phase L2 end	2	
+403003	2ndorderharmonicdistortionon phase L1 end	2	
+403002	2ndorderharmonicdistortionon phase L3 start	2	
+403001	2ndorderharmonicdistortionon phase L2 start	2	
+403000	2nd order harmonic distortion on  phase L1 start	2	
+402999	Fatal device error	2	
+402998	Meter reset	2	
+402997	Temporary error	2	
+402994	SW checksum error	2	
+402993	Meterconfigurationchanged-Write Attribute	1	
+402992	Meter configuration changed - Execute method	1	
+402894	Phase disorder indication	3	
+402893	Device alarm: L3 Short term over volt-	1	
+402892	Device alarm: L2 Short term over volt-age start	1	
+402891	Device alarm: L1 Short term over volt-age start	1	
+402890	Device alarm: L3 Short term over volt-age start	1	
+402889	Device alarm: L2 Short term over volt-age start	1	
+402888	Device alarm: L1 Short term over volt-age start	1	
+402887	Device alarm: L3 Long term over volt-age start	1	
+402886	Device alarm: L2 Long term over volt-age start	1	
+402885	Device alarm: L1 Long term over volt-age start	1	
+402884	Device alarm: L3 Long term over volt-age start	1	
+402883	Device alarm: L2 Long term over volt-age start	1	
+402882	Device alarm: L1 Long term over volt-age start	1	
+402881	Device alarm: Voltage unbalance ends	1	
+402880	Device alarm: Voltage unbalance start	1	
+402879	Device alarm: L3 short term over voltage start	1	
+402878	Device alarm: L2 short term over voltage start	1	
+402877	Device alarm: L1 short term over voltage start	1	
+402876	Device alarm: L3 short term over voltage start	1	
+402875	Device alarm: L2 short term over voltage start	1	
+402874	Devicealarm:L1Shorttermunder voltage start	1	
+402873	Devicealarm:L3Longtermunder voltage ends	1	
+402872	Devicealarm:L2Longtermunder voltage ends	1	
+402871	Devicealarm:L1Longtermunder voltage ends	1	
+402870	Devicealarm:L3Longtermunder voltage start	1	
+402869	Devicealarm:L2Longtermunder voltage start	1	
+402868	Devicealarm:L1Longtermunder voltage start	1	
+402867	Device alarm: THD end L3	1	
+402866	Device alarm: THD end L2	1	
+402865	Device alarm: THD end L1	1	
+402864	Device alarm: THD start L3	1	
+402863	Device alarm: THD start L2	1	
+402862	Device alarm: THD start L1	1	
+402861	Device alarm: Phase 3 Reverse	3	
+402860	Device alarm: Phase 2 Reverse	3	
+402859	Device alarm: Phase 1 Reverse	3	
+402858	Device alarm: Frequency offset end	1	
+402857	Device alarm: Frequency offset start	1	
+402856	Device alarm: Change of clock outside allowed limit	2	
+402855	Device alarm: Power quality alert	2	
+402854	Device alarm: Communication success with modem	1	
+402853	Devicealarm:L3Powerinterruption ends	1	
+402852	Devicealarm:L2Powerinterruption ends	1	
+402851	Devicealarm:L1Powerinterruption ends	1	
+402850	Device alarm:Close breaker pressing button	1	
+402849	Device alarm: Open breaker pressing button	1	
+402848	Device alarm: New M-Bus device dis-covered	1	
+402847	Device alarm: Communication error M-Bus	3	
+402846	Device alarm: Neutral Fault	3	
+402845	Device alarm: Meter reconfigured	1	
+402844	Device alarm: Fraud attempt	2	
+402843	Device alarm: Watchdog error	3	
+402842	Device alarm: Measurement System Error	3	
+402841	Device alarm: NV memory Error	3	
+402840	Device alarm: RAM Error	3	
+402839	Device alarm: Program memory error	3	
+402838	Device alarm: Power back in any phase	1	
+402837	Device alarm: Power failure in any phase	3	
+402836	Device alarm: L3 Power interruption start	3	
+402835	Device alarm: L2 Power interruption start	3	
+402834	Device alarm: L1 Power interruption start	3	
+402833	Device alarm: Power Up	1	
+402832	Device alarm: Phase disorder indica-tion	3	
+402831	Device alarm: Clock invalid	3	
+402830	Dongle relay close breaker by com-mand	1	
+402829	Dongle relay open breaker by com-mand	1	
+402828	Dongle relay close breaker by sched-uler	1	
+402827	Dongle relay open breaker by sched-uler	1	
+402826	Passive TOU programmed relay	1	
+402825	TOU activated relay	1	
+402824	Voltage L3 normal	1	
+402823	Voltage L2 normal	1	
+402822	Voltage L1 normal	1	
+402821	Overvoltage on phase L3	1	
+402820	Overvoltage on phase L2	1	
+402819	Overvoltage on phase L1	1	
+402818	Undervoltage on phase L3	1	
+402817	Undervoltage on phase L2	1	
+402816	Undervoltage on phase L1	1	
+402815	Retrieving of interval data G	1	
+402814	Retrieving of interval data E	1	
+402813	Retrieving of meter readings G	1	
+402812	Retrieving of meter readings E	1	
+402811	Technical maintenance of the grid	1	
+402810	Technical maintenance of the meter	1	
+402808	Open disconnector for power limit	1	
+402807	Short power failure all phase end	1	
+402806	Long power failure all phase end	1	
+402805	Short power failure end on phase %2$s	1	
+402804	Long power failure end on phase %2$s	1	
+402803	Voltage interruption start	2	
+402802	Voltage interruption all phase start	2	
+402801	Active Energy Tariff changed	1	
+402800	Event log cleared	1	
+402799	Communicationendedonlocalinter- face P0	1	
+402798	Communication started on local inter- face P0	1	
+402797	Communicationendedonremotein- terface P3	1	
+402796	Communication started on remote in- terface P3	1	
+402795	ICMP echo request received	1	
+402794	ICMP RS failure	1	
+402793	ICMP RA received	1	
+402792	PAN registration failure	3	
+402791	PAN disconnect - KICK	1	
+402790	PAN registration success	1	
+402789	Modem initialization failure G3-PLC	3	
+402788	No connection timeout G3-PLC	3	
+402787	Ping response not received end	1	
+402786	Signal quality low end	1	
+402785	Connectivity check failed	3	
+402784	Operation triggered by on-installation-push (%2$s) failed	3	
+402783	Tariff shift time activated	1	
+402782	Short power failure all phase end	1	
+402781	Long power failure all phase end	1	
+402780	Short power failure end on phase %1$s	1	
+402779	Long power failure end on phase %1$s	1	
+402778	Voltage interruption start	2	
+402777	Voltage interruption all phase start	2	
+402776	Firmware roll back	1	
+402775	Firmware verification ok	1	
+402774	Firmware transfer ok	1	
+402773	%3$s. Order harmonic distortion end on phase %1$s	1	
+402772	%3$s. Order harmonic distortion start on phase %1$s	2	
+402771	THD end phase on %1$s	1	
+402770	THD start on phase %1$s	2	
+402769	Frequency offset end	1	
+402768	Frequency offset start	2	
+402767	Short term over voltage on phase %1$s end	1	
+402766	Short term over voltage on phase %1$s start	2	
+402765	Short term under voltage on phase %1$s end	1	
+402764	Short term under voltage on phase %1$s start	2	
+402763	Long term over voltage on phase %1$s end	1	
+402762	Long term over voltage on phase %1$s start	2	
+402761	Longtermundervoltageonphase %1$s end	1	
+402760	Long term under voltage start on phase %1$s	2	
+402759	Open disconnector by pressing button	1	
+402758	Closedisconnectorbycontrolcom- mand	1	
+402757	Close disconnector by pressing button	1	
+402756	Opendisconnectorforcontrolcom- mand	1	
+402755	Open disconnector for power limit	1	
+402754	Failed login attempt	2	
+402753	Over temperature limit event end	1	
+402752	Three-phasecurrentunbalanceevent end	1	
+402751	Current negative phase sequence event end	1	
+402750	Voltage negative phase sequence event end	1	
+402749	Neutral loss end	1	
+402748	Loss of current end	1	
+402747	Phase failure end	1	
+402746	Meter reset abnormally	3	
+402745	Reactive energy tariff changed	1	
+402744	External input	1	
+402743	Leakage	3	
+402742	Agreed blackout event	1	
+402741	Factory default settings restored	1	
+402740	Maximum demand reset	1	
+402739	Switchingbetweenpre-paymentand post-payment	1	
+402738	Meter tariff switching	1	
+402737	Standbytariffmodification(down- load)	1	
+402736	Technical TOKEN input event	1	
+402735	Credit clearing TOKEN input event	1	
+402734	Tamper clearing TOKEN input event	1	
+402733	Basic power consumption mode end	2	
+402732	Bypass end event	2	
+402731	Self-diagnosis for internal clock	2	
+402730	Self-diagnosis for internal memory	2	
+402729	Self-diagnosis for control circuit	2	
+402728	Temperature over limit	3	
+402727	Current failure	3	
+402726	Power over limit	2	
+402725	Split-phase active power reverse	2	
+402724	Power factor under lower limit	2	
+402723	Demand over limit	2	
+402722	Three-phase current unbalance	2	
+402721	Three-phase voltage unbalance	2	
+402720	Current negative phase sequence	2	
+402719	Voltage negative phase sequence	2	
+402718	Phase failure	2	
+402717	Loss of current	2	
+402716	Loss of voltage	2	
+402715	Apparent demand over limit	2	
+402714	Apparent power unbalance	2	
+402713	Apparent power over limit	2	
+402712	Total power factor under lower limit	2	
+402711	Phase power unbalance	2	
+402710	Serious unbalance of current (more than 6.5%)	2	
+402709	Total active power reverse	2	
+402708	Ferroelectric memory malfunction	2	
+402707	Meter box opening	2	
+402706	Basic power consumption mode	2	
+402705	Magnetic interference	2	
+402704	FLASH malfunction	2	
+402703	Overdraft	2	
+402702	Internal clock malfunction	2	
+402701	Internal memory malfunction	2	
+402700	Meter control circuit malfunction	2	
+402699	No remaining credit (negative credit)	2	
+402698	Zero remaining credit	2	
+402697	Auto-answer number of calls exceeded	2	
+402696	User initialization failure	3	
+402695	Diagnostic failure	3	
+402694	GSM hang-up	1	
+402693	GSM incoming connection	1	
+402692	GSM outgoing connection	1	
+402691	Modem HW reset	1	
+402690	Modem SW reset	1	
+402689	PDP context failure	1	
+402688	PDP context destroyed	1	
+402687	PDP context established	1	
+402686	GPRS registration failure	3	
+402685	GSM registration failure	3	
+402684	SIM card ok	1	
+402683	SIM card failure	3	
+402682	Modem initialization failure	3	
+402681	No connection timeout	3	
+402680	Metrologyfirmwarereadyforactiva- tion	1	
+402679	Firmware activation time set	1	
+402678	Metrology firmware not activated	3	
+402677	Metrology firmware activated	1	
+402676	E-meter firmware version underlegal control	1	
+402675	Devicedisconnectorhasbeendiscon- nected	1	
+402674	Devicedisconnectorhasbeencon- nected	1	
+402673	Load profile recording deactivated	1	
+402672	Show profile on display	1	
+402671	Disconnector TOU activated locally	1	
+402670	Disconnector TOU activated	1	
+402669	Disconnector TOU programmed locally	1	
+402668	Disconnector TOU programmed	1	
+402667	Quality control alert for show profile on display	2	
+402666	Quality control alert for profile record-ing	2	
+402665	Quality control alert for calendar	2	
+402664	Message on meter display was set	1	
+402663	Quality control alert for profile config-uration	2	
+402662	Quality control alert for WAN-interface	2	
+402661	Quality control alert for limiter	2	
+402660	Quality control alert for P1-interface	2	
+402659	Quality control alert for P0-interface	2	
+402658	Voltage missing on phase â€˜1â€™	2	
+402657	Current failure on phase â€˜3â€™ disap-peared	2	
+402656	Current failure on phase â€˜2â€™ disap-peared	2	
+402655	Current failure on phase â€˜1â€™ disap- peared	2	
+402654	Current failure on phase â€˜3â€™	2	
+402653	Current failure on phase â€˜2â€™	2	
+402652	Current failure on phase â€˜1â€™	2	
+402651	Phase â€˜3â€™ reversed disappeared	2	
+402650	Phase â€˜2â€™ reversed disappeared	2	
+402649	Phase â€˜1â€™ reversed disappeared	2	
+402648	Phase â€˜3â€™ reversed	2	
+402647	Phase â€˜2â€™ reversed	2	
+402646	Phase â€˜1â€™ reversed	2	
+402645	Voltage normal on phase â€˜3â€™	2	
+402644	Voltage normal on phase â€˜2â€™	2	
+402643	Voltage normal on phase â€˜1â€™	2	
+402642	Voltage missing on phase â€˜3â€™	2	
+402641	Voltage missing on phase â€˜2â€™	2	
+402640	Invalid disconnector operation	2	
+402639	Quality control alert for disconnector	2	
+402638	Meterdecryptionkeyhasinvalid length	2	
+402637	Unable to find a matching decryption keyformeter,storingmeterdatain container mode	2	
+402636	Unexpectedreboot-possiblepower failure	2	
+402635	Authentication key or block ciphering key missing when loading DLMS add- on	2	
+402634	Invalid DLMS request, logs can not be read as a registers	2	
+402633	Invalid DLMS request, no load profile available for OBIS code	2	
+402632	InvalidDLMSrequest,invalidkey length	2	
+402631	Invalid DLMS request, unknown key	2	
+402630	InvalidDLMSrequest,actionisnot supported for OBIS code	2	
+402629	Invalid DLMS request, trying to change to an unmapped channel ,active chan- nel is still used	2	
+402628	Connectionestablishedoninterface console	1	
+402627	Could not upload file, unsupported for- mat or upload interrupted	3	
+402626	File is not a valid add-on	3	
+402625	License is expired	3	
+402624	License missing for add-on	3	
+402623	Could not load license file	3	
+402622	Incorrectlicensefile,serialnumber does not match	3	
+402621	Numberofmetersexceedslicense limit, meter(s) are set to passive mode	2	
+402620	License file updated	1	
+402619	File uploaded	1	
+402618	Failed to sent push report per HTTP	3	
+402617	Failed to sent push report per FTP	3	
+402616	Failed to sent push report per e-mail	3	
+402615	Push report sent per HTTP	1	
+402614	Push report sent per FTP	1	
+402613	Push report sent per e-mail	1	
+402612	Cron settings are invalid for service	3	
+402611	Unable to reach DNS server, network settings were deleted	2	
+402610	Ethernet connection lost	2	
+402609	Memory status message	1	
+402608	Manual reboot initiated by user	1	
+402607	Date and time have been synchronized	1	
+402606	Add-on uninstalled	1	
+402605	Add-on installed	1	
+402604	Service stopped	1	
+402603	Service started	1	
+402602	Firmware version updated	1	
+402601	Gateway stopped	1	
+402600	Gateway started	1	
+402523	Flow limit	2	
+402522	Low impedance	2	
+402521	Empty pipe	2	
+402520	Leakage	2	
+402519	Consumption interval	2	
+402518	Pulse B overload	2	
+402517	Pulse A overload	2	
+402516	Flow overload	2	
+402515	Low power	2	
+402514	Preamplifier overload	2	
+402513	Coil current error	2	
+402512	Insulation error	2	
+402511	Hardware error	2	
+402510	Firmware error	2	
+402509	Power-Up failure	2	
+402508	Internal communication error	2	
+402507	Wrong configuration	2	
+402506	Unauthorized access	2	
+402505	Problem with outgoing e-mail transfer	2	
+402504	Problem with outgoing SMS transfer	2	
+402503	Problem with configuration	2	
+402502	Internal software error	2	
+402501	GSM availability problem	2	
+402500	GSM signal strength low	2	
+402437	Information display disabled	1	
+402436	Information display enabled	1	
+402435	Disconnector locally programmed	1	
+402434	Replay attack	2	Fraud Detection
+402433	LocalconnectionM-Buschannel â€˜%1$sâ€™	1	
+402432	LocaldisconnectionM-Buschannel â€˜%1$sâ€™	1	
+402431	Local reconnect	1	
+402430	Phase sequence reversal	2	
+402429	Decryption or authentication error	2	Fraud Detection
+402428	Passive TOU programmed	1	
+402427	Supervisionmonitorâ€˜%1$sâ€™threshold ok	1	
+402426	Supervisionmonitorâ€˜%1$sâ€™threshold exceeded	2	
+402425	Overvoltage on phase â€˜%1$sâ€™	2	
+402424	Undervoltage on phase â€˜%1$sâ€™	2	
+402423	Phase missing	2	
+402420	Consumption limit exceeded	2	
+402419	Pulse error	2	
+402418	Valve error	2	
+402417	Valve alarm	2	
+402416	Undervoltage	2	
+402415	Overvoltage	2	
+402413	Inverse phase ends	2	
+402412	Inverse phase begins	2	
+402403	Swell phase ends	2	
+402402	Swell phase begins	2	
+402401	Sag phase ends	2	
+402400	Sag phase begins	2	
+402352	File upload error	2	
+402351	File invalid add-on	2	
+402350	Wrong frame sequence	2	
+402349	Dependency error	2	
+402348	Installation failed	2	
+402347	Unknown firmware type	2	
+402346	Meter busy	2	
+402345	No further data accepted	2	
+402344	Not enough free mailboxes	2	
+402343	Double bus address detected	2	
+402342	Action error	2	
+402341	Write error	2	
+402340	MCP access error	2	
+402339	MUP access error	2	
+402338	Port initialization error	2	
+402337	Read error	2	
+402336	Connection established	2	
+402335	Command unsupported	2	
+402334	General error	2	
+402333	Meter self test failed	2	
+402332	Machine certificate is not signed by a recognized CA	2	
+402331	Unrecognized certificate format	2	
+402330	Unsupported certificate type (sup-ported types: 4.30.1)	2	
+402329	Certificate is not valid due to wrong date	2	
+402328	Reuse of old passwords not allowed	2	
+402327	Insufficient password complexity	2	
+402326	An error occurred while updating the certificate revocation list	2	
+402325	Unknown block identification	2	
+402324	Job already pending	2	
+402323	Too many requests running	2	
+402321	Meter response timeout	2	
+402320	Invalidpublickeyofmachinecertifi- cate has invalid public key	2	
+402319	Insufficient password length	2	
+402318	Load profile cleared	2	
+402317	DST disabled	2	
+402316	DST enabled	2	
+402315	Configuration change	2	
+402303	Communication unit cover closed	2	
+402302	Communication unit cover removed	2	
+402301	Disconnectormalfunctionwasre- solved	2	
+402300	Disconnector malfunction	2	
+402263	Unexpected change of encryption key	2	
+402262	Tamper read error	2	
+402261	Tamper was open	2	
+402260	TOU set failed	2	
+402259	TOU set successfully	2	
+402258	Leak detected for device	2	
+402256	Tamper alert	2	
+402255	Event log cleared	2	Fraud Detection
+402253	Phase asymmetry	2	
+402252	Local communication attempt	2	
+402251	Wrong phase sequence	2	
+402250	Voltage normal on phase â€˜%1$sâ€™	2	
+402249	Voltage missing on phase â€˜%1$sâ€™	2	
+402248	Unexpected consumption	2	
+402247	Total power failure	2	
+402246	Power resumed	2	
+402245	Missing neutral	2	
+402244	M-Bus battery low	2	
+402243	Key exchanged	2	
+402242	External alarm	2	
+402241	IP address changed	3	
+402240	No response from E-meter, tariff or dis- connector inconsistent!	2	
+402236	Decrypt failed	2	
+402232	Decrypt successful	3	
+402231	Failed communication attempt.	3	
+402230	Hardware not supported by firmware.	2	
+402229	Communication ended on local inter-	1	
+402228	Communication started on local inter-face P0	1	
+402227	Communication ended on remote in-terface P3	1	
+402226	Communication started on remote in-terface P3	1	
+402225	Capturing of load profile 2 disabled	1	
+402224	Capturing of load profile 2 enabled	1	
+402223	Capturing of load profile 1 disabled	1	
+402222	Capturing of load profile 1 enabled	1	
+402203	GetParameterResponse	2	
+402202	Disconnect/reconnect failure	2	Not Available
+402201	Current reversed	2	Fraud Detection
+402200	Bad voltage quality on phase â€˜%1$sâ€™	2	
+402199	Permanent error on M-Bus channel â€˜%1$sâ€™	2	
+402195	New M-bus device discovered channel â€˜%1$sâ€™	3	
+402165	M-Bus timestamp too old	2	
+402164	Valve alarm	3	
+402163	Remote connection	3	
+402162	Remote disconnection	2	
+402161	Manual connection	1	Physical Meter Events
+402160	Manual disconnection	3	Physical Meter Events
+402104	Clock adjusted	3	
+402103	Fraud attempt	3	
+402102	Replace battery	2	Not Available
+402101	Communication ok	3	
+402100	Communication error	3	
+402074	Auxiliary power supply	2	
+402073	M-bus invalid key length	3	
+402072	M-bus decode error	3	
+402071	Configuration change	3	
+402070	Successfulselfcheckafterfirmware update	3	
+402069	Tariff shift times	1	
+402068	Event log cleared	1	
+402067	Limiter threshold changed	1	
+402066	Limiter threshold ok	1	
+402065	Limiter threshold exceeded	2	
+402064	Local disconnection	2	
+402063	Remote connection	1	
+402062	Remote disconnection	2	
+402061	Manual connection	1	Physical Meter Events
+402060	Manual disconnection	2	Physical Meter Events
+402046	n times wrong password	3	
+402045	Meter cover closed	1	Fraud Detection
+402044	Meter cover removed	3	Fraud Detection
+402043	No strong DC field anymore	1	Fraud Detection
+402042	Strong DC field detected	3	Fraud Detection
+402041	Terminal cover closed	1	Fraud Detection
+402040	Terminal cover removed	3	Fraud Detection
+402021	Communication module ID was empty	1	
+402020	Clock adjusted	1	
+402019	Clock adjusted	1	
+402018	Firmware activated	1	
+402017	Firmware ready for activation	3	
+402016	Measurement system error	3	
+402015	Watchdog error	3	
+402014	NV memory error	3	
+402013	RAM error	3	
+402012	Program memory error	3	
+402011	Alarm register cleared	3	
+402010	Error register cleared	1	
+402009	TOU activated	1	
+402008	Battery voltage low	3	
+402007	Replace battery	2	
+402006	Clock invalid	2	Irregular Readings
+402005	Clock adjusted	1	
+402004	Get time from device	1	
+402003	Daylight saving time enabled or dis-abled	1	
+402002	Power up	3	Restoration
+402001	Power down	3	Outage
+309000	VEE: validation on record failed!	2	
+308999	Error detected in last reported accounting-data.	2	
+308907	A duplicate was delivered when the consumption values were submitted.	1	
+308906	A conflict occurred during the delivery of a consumption value.	1	
+308905	Negative consumption value.	2	
+308904	Delayed total value implies that the previous total value is larger and the following total value is smaller than the current total value.	2	
+308903	Accounting-data already received -record ignored!	2	
+308902	Delayed total value implies that follow-ing total value is smaller than current total value.	2	
+308901	Delayed total value implies that previ-ous total value is larger than current total value.	2	
+308900	Reported accounting-data not up to date, at least one more up to date record already exists!	2	
+308800	Last reported total value larger than currently reported total value!	2	
+308720	More up to date absolute value already exists. Delayed delivery for Session- based delivery is prohibited - record ig-nored!	3	
+308711	Session consumption invalid!	2	
+308710	Session consumption invalid!	2	
+308701	Internal error.No consumption found for customer and contract - record ig- nored!	3	
+308700	Accounting record could not assigned to any customer (missing contract)!	2	
+308630	Invalidconsumptionunitfoundin record!	2	
+308620	Unknown consumption report type	2	
+308610	Consumption factor out of range!	2	
+308600	Reported absolute value less then ini- tial meter-value.	2	
+308420	SML â€˜Closeâ€™ is missing for device	2	
+308419	Profile range is empty in SML	2	
+308418	End time before start time in SML	2	
+308417	SML profile is empty	2	
+308416	Optional SML field is not supported	2	
+308415	Wrong SML data type for writing	2	
+308414	Unknown SML object in profile	2	
+308413	Unexpected SML message	2	
+308412	SML broadcast not supported	2	
+308411	SML checksum incorrect	2	
+308410	SML request was not processed	2	
+308409	SML value out of range	2	
+308408	SML raw data not interpretable	2	
+308407	SML communication to meter broken	2	
+308406	SML parameter not readable for device	2	
+308405	SML parameter not writable for device	2	
+308404	SML request not available for device	2	
+308403	SML server ID not available for device	2	
+308402	SML authorization insufficient	2	
+308401	Unknown SML tag	2	
+308400	SML error	2	
+308261	Meter connected	1	
+308260	Meter installation	1	Physical Meter Events
+308250	Could not determine OBIS code from consumptiondataordefaultdevice properties	2	
+308240	Device has no register for OBIS code	3	
+308230	OBIS code unknown	3	
+308220	Unknown branch for meter	2	
+308155	Topology mismatch via discover meter	2	
+308154	Topology mismatch via discover meter	2	
+308153	Could not (un)bind meter	3	
+308152	Device is not a meter	3	
+308151	Device is not a com module	3	
+308150	Topology mismatch via discover meter	2	
+308113	Request error topology	2	
+308112	Device unknown	2	
+308111	Unable to bind meter to port	2	
+308110	Serial ID missing for device	2	
+100002	No zone_group found	2	
+100001	Access denied	2	
