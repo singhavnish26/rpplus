@@ -6,7 +6,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-listOfTopics = ['ext_device_10121']
+listOfTopics = ['ext_device_10121','ext_device_10121']
 
 # Initialize Kafka consumer
 try:
@@ -31,3 +31,4 @@ for msg in consumer:
         
     except Exception as e:
         logger.error(f"Error processing message: {e}")
+
